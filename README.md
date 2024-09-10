@@ -1,4 +1,4 @@
-# CSC207 Week 1 Lab Activity #1: Fizz Buzz asdasd
+# CSC207 Week 1 Lab Activity #1: Fizz Buzz
 Let's start off our exploration of Java with a classic programming challenge, Fizz Buzz!
 
 But first, let's get you your own copy of this codebase to work with.
@@ -191,7 +191,7 @@ private — only to be called by the method using it as a helper and not by anyo
 something similar here — when it extracted this method, it used the `private` access modifier for the extracted method.
 You'll learn more about the various access modifiers in your Java readings soon.
 
-### Task 2.1: Publishing your changesa
+### Task 2.1: Publishing your changes
 
 Now that you've made your first edits to your code, you should ask git to save these changes for you.
 
