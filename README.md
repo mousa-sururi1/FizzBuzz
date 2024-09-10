@@ -191,7 +191,7 @@ private — only to be called by the method using it as a helper and not by anyo
 something similar here — when it extracted this method, it used the `private` access modifier for the extracted method.
 You'll learn more about the various access modifiers in your Java readings soon.
 
-### Task 2.1: Publishing your changes
+### Task 2.1: Publishing your changesa
 
 Now that you've made your first edits to your code, you should ask git to save these changes for you.
 
