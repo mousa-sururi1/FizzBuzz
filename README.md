@@ -419,5 +419,3 @@ the other one of you will need to do a `git pull` to get the changes. Of course,
 and try to push, there may be conflicting changes which need to be resolved. As mentioned earlier,
 git does a pretty good job telling you what is wrong and can help you resolve any conflicts. We'll talk more about
 this later, as well as other features of git which can help you avoid conflicts.
-#   h t t p s - m a r k u s . t e a c h . c s . t o r o n t o . e d u - g i t - m a r k u s - c s c 2 0 7 - 2 0 2 4 - 0 9 - s u r u r i m 1  
- 
